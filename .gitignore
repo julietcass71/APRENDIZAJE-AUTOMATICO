@@ -42,3 +42,5 @@ data/raw/*
 data/external/*
 !data/raw/.gitkeep
 !data/external/.gitkeep
+
+*.egg-info/
